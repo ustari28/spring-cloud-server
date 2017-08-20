@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ustari28/spring-cloud-repository
+  application:
+    name: Spring-cloud-config-server-git
+management:
+  security:
+    enabled: false
+logging:
+  level:
+    root: INFO
+server:
+  port: 8888
