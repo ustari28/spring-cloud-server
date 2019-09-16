@@ -11,7 +11,7 @@
     <name>cloud-config-server</name>
     <description>Demo project for Spring Boot</description>
     <scm>
-        <connection>scm:git:https://github.com/spring-cloud-server</connection>
+        <connection>scm:git:https://github.com/ustari28/spring-cloud-server.git</connection>
     </scm>
 
     <parent>
