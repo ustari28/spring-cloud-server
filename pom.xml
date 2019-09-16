@@ -10,6 +10,9 @@
 
     <name>cloud-config-server</name>
     <description>Demo project for Spring Boot</description>
+    <scm>
+        <connection>scm:git:https://github.com/spring-cloud-server</connection>
+    </scm>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
