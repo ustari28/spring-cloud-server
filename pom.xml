@@ -4,14 +4,14 @@
 
     <groupId>com.alan.developer</groupId>
     <artifactId>cloud-config-server</artifactId>
-    <version>0.0.10-SNAPSHOT</version>
+    <version>0.0.9-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>cloud-config-server</name>
     <description>Demo project for Spring Boot</description>
     <scm>
         <connection>scm:git:https://github.com/ustari28/spring-cloud-server.git</connection>
-      <tag>cloud-config-server-0.0.7</tag>
+      <tag>release/version</tag>
   </scm>
 
     <parent>
